@@ -9,4 +9,15 @@ h1 {
 
 ul {
     list-style: none;
+    text-align: center;
+    margin: auto;
+    padding: 0%;
+    display: block;
+}
+
+ul li {
+    padding: 5px;
+    background: #fff;
+    margin: 10px;
+    display: inline-block;
 }
