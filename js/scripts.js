@@ -9,3 +9,8 @@ $overlay.append($image);
 var $button = $("<img id = 'xbutton'>");
 
 $overlay.append($button);
+
+
+$("#gallery a").click(function(event) {
+    event.preventDefault();
+});

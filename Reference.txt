@@ -4,3 +4,7 @@ https://www.w3schools.com/cssref/pr_class_display.asp
 
 scripts.js
 https://api.jquery.com/element-selector/
+https://api.jquery.com/id-selector/
+https://www.w3schools.com/jquery/jquery_events.asp
+https://api.jquery.com/click/
+https://api.jquery.com/event.preventdefault/
