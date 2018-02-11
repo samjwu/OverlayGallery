@@ -16,7 +16,11 @@ $("#gallery a img").click(function(event) {
 
     var imgsrc = $(this).attr("src");
     $image.attr("src", imgsrc);
-    $button.attr("src", "https://res.cloudinary.com/teepublic/image/private/s--21aFqFwq--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1466431125/production/designs/554244_1.jpg");
+    $button.attr("src", "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Simpleicons_Interface_power-button-symbol.svg/2000px-Simpleicons_Interface_power-button-symbol.svg.png");
 
     $overlay.show();
+});
+
+$button.click(function() {
+    $($overlay).hide();
 });

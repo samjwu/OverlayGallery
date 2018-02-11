@@ -1,6 +1,7 @@
 styles.css
 https://www.w3schools.com/css/css_list.asp
 https://www.w3schools.com/cssref/pr_class_display.asp
+https://www.w3schools.com/cssref/css_colors_legal.asp
 https://www.w3schools.com/cssref/pr_pos_z-index.asp
 https://blog.udemy.com/css-overlay/
 
@@ -12,3 +13,4 @@ https://api.jquery.com/click/
 https://api.jquery.com/event.preventdefault/
 http://api.jquery.com/attr/
 http://api.jquery.com/show/
+http://api.jquery.com/hide/
