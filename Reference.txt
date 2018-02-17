@@ -4,6 +4,7 @@ https://www.w3schools.com/cssref/pr_class_display.asp
 https://www.w3schools.com/cssref/css_colors_legal.asp
 https://www.w3schools.com/cssref/pr_pos_z-index.asp
 https://blog.udemy.com/css-overlay/
+https://stackoverflow.com/questions/3087975/how-can-i-make-the-cursor-a-hand-when-a-user-hovers-over-a-list-item
 
 scripts.js
 https://api.jquery.com/element-selector/

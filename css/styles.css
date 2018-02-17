@@ -54,4 +54,5 @@ ul li img {
     top: 5px;
     right: 5px;
     z-index: 1;
+    cursor: pointer;
 }
